@@ -1,0 +1,9 @@
+.git
+.gitignore
+.env
+.env.*
+Dockerfile
+.dockerignore
+README.md
+*.md
+evaluation-service.exe
